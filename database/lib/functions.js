@@ -134,7 +134,7 @@ const close = (id, text) => {
 }
 
 
-CFonts.say('DhaniGans', {
+CFonts.say('Jacksito98', {
   font: 'chrome',
   align: 'center',
   gradient: ['magenta', 'red']
